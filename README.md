@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-2280600409-NguyenTienDung-NNPTUD-C2-1603
-=======
-# 2280600409-NguyenTienDung-NNPTUD-C2-1603
->>>>>>> 530060c372e319fb7c3de36a0464903adcb207b1
+# 2280600409-NguyenTienDung-NNPTUD-C2-Buoi-7
